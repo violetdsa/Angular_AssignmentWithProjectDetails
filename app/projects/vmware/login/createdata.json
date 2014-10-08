@@ -1,0 +1,13 @@
+{
+"prjId":"vmware",
+"Name":"VMware-CP-Dev",
+"UserStoryId":"login",
+"UserStoryName":"Create Login Page Functionality",
+"TaskId":"createhtml",
+"TaskName":"Generate Data Models (hbm/Pojo) For Login ",
+"TaskDesciption":"This task is created to create data model. This model will accept data from user and forward it to be used to save the login data to database.",
+"TaskOwner":"User One",
+"TaskEstimate":"5 Days",
+"TimeSpent":"3 Days",
+"TimeRemaining":"2 Days"
+}

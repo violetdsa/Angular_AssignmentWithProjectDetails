@@ -1,0 +1,12 @@
+<h1>{{project.Name}}</h1>
+
+<h2>{{project.Description}}</h2>
+
+<p>User Stories: </p>
+
+<ul ng-repeat="ust in project.UserStories">
+	<li>
+		<a  href="#/projects/{{project.prjId}}/{{ust.UserStoryId}}" >{{ust.UserStoryName}}</a>
+	</li>
+
+</ul>

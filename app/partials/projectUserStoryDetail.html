@@ -1,0 +1,16 @@
+<h1>{{userstory.Name}}</h1>
+
+<p>User Story Name : {{userstory.UserStoryName}}</p>
+
+<p>Owner : {{userstory.Owner}}</p>
+
+<p>Planed estimate : {{userstory.PlanEstimate}}</p>
+
+<p>Tasks : </p>
+
+<ul ng-repeat="task in userstory.Tasks">
+	<li>
+		<a  href="#/projects/{{userstory.prjId}}/{{userstory.UserStoryId}}/{{task.TaskId}}" >{{task.TaskName}}</a>
+	</li>
+	
+</ul>

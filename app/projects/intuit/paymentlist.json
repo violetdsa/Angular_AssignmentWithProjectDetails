@@ -1,0 +1,25 @@
+{
+"prjId":"intuit",
+"Name":"Intuit IPP Java SDK",
+"Description":"Intuit payment network is a new and affordable way to send and receive payments over the Internet. It is designed for individuals and small businesses.",
+"UserStoryId":"paymentlist",
+"UserStoryName":"Create Payment List Page Functionality",
+"Owner":"Test Seven",
+"PlanEstimate":"0.4",
+"Tasks":[{
+	  	"TaskId":"createhtml",
+	  	"TaskName":"Create Payment List Html/jsp"	  	
+	  },
+	  {
+	  	"TaskId":"createaction",
+	  	"TaskName":"Create Payment List Action Class"	  	
+	  },
+	  {
+	  	"TaskId":"createdata",
+	  	"TaskName":"Generate Data Models (hbm/Pojo) For Payment List"	  	
+	  },
+	  {
+	  	"TaskId":"writelogic",
+	  	"TaskName":"Write Business Logic for Payment List"	  	
+	  }]
+}

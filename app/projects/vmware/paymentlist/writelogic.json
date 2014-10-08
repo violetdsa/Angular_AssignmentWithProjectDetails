@@ -1,0 +1,13 @@
+{
+"prjId":"vmware",
+"Name":"VMware-CP-Dev",
+"UserStoryId":"paymentlist",
+"UserStoryName":"Create Payment List Page Functionality",
+"TaskId":"createhtml",
+"TaskName":"Write Business Logic for Adding Payment List",
+"TaskDesciption":"This task is created to take data from action and save it to database",
+"TaskOwner":"User One",
+"TaskEstimate":"4 days",
+"TimeSpent":"1 Day",
+"TimeRemaining":"3 Day"
+}

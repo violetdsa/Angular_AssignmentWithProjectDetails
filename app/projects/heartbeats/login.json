@@ -1,0 +1,25 @@
+{
+"prjId":"heartbeats",
+"Name":"Heartbeats Profiler",
+"Description":"Scope Heartbeat Profiler is content management System. Heartbeat Profiler’s central database provides enterprises with an intelligible, logically structured view of all company KOLs segmented by brand, therapeutic area, region, role, and level of influence.",
+"UserStoryId":"login",
+"UserStoryName":"Create Login Page Functionality",
+"Owner":"Test One",
+"PlanEstimate":"0.8",
+"Tasks":[{
+	  	"TaskId":"createhtml",
+	  	"TaskName":"Create Login Html/jsp"	  	
+	  },
+	  {
+	  	"TaskId":"createaction",
+	  	"TaskName":"Create Login Class"	  	
+	  },
+	  {
+	  	"TaskId":"createdata",
+	  	"TaskName":"Generate Data Models (hbm/Pojo) For Login "	  	
+	  },
+	  {
+	  	"TaskId":"writelogic",
+	  	"TaskName":"Write Business Logic for Adding Login"	  	
+	  }]
+}

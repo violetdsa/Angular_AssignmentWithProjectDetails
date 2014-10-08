@@ -1,0 +1,25 @@
+{
+"prjId":"ibm",
+"Name":"IBM TAM (IBM Tivoli Access Manager)",
+"Description":"Is an authentication and authorization solution for corporate web services, operating systems, and existing applications.[1] Tivoli Access Manager runs on various operating system platforms such as Unix (AIX, Solaris, HP-UX), Linux, and Microsoft Windows",
+"UserStoryId":"paymentlist",
+"UserStoryName":"Create Payment List Page Functionality",
+"Owner":"Test Eight",
+"PlanEstimate":"0.9",
+"Tasks":[{
+	  	"TaskId":"createhtml",
+	  	"TaskName":"Create Payment List Html/jsp"	  	
+	  },
+	  {
+	  	"TaskId":"createaction",
+	  	"TaskName":"Create Payment List Action Class"	  	
+	  },
+	  {
+	  	"TaskId":"createdata",
+	  	"TaskName":"Generate Data Models (hbm/Pojo) For Payment List"	  	
+	  },
+	  {
+	  	"TaskId":"writelogic",
+	  	"TaskName":"Write Business Logic for Payment List"	  	
+	  }]
+}

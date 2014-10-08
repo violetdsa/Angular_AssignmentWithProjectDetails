@@ -1,0 +1,18 @@
+{
+"prjId":"ibm",
+"Name":"IBM TAM (IBM Tivoli Access Manager)",
+"Description":"Is an authentication and authorization solution for corporate web services, operating systems, and existing applications.[1] Tivoli Access Manager runs on various operating system platforms such as Unix (AIX, Solaris, HP-UX), Linux, and Microsoft Windows",
+"UserStories":[{
+		"UserStoryId":"login",
+		"UserStoryName":"Create Login Page Functionality"
+		},
+		{
+		"UserStoryId":"paymenttype",
+		"UserStoryName":"Create Payment Type Functionality"
+		},
+		{
+		"UserStoryId":"paymentlist",
+		"UserStoryName":"Create Payment List Functionality"
+		}
+	]
+}

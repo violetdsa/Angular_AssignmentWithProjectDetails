@@ -1,0 +1,13 @@
+{
+"prjId":"intuit",
+"Name":"Intuit IPP Java SDK",
+"UserStoryId":"login",
+"UserStoryName":"Create Login Page Functionality",
+"TaskId":"createhtml",
+"TaskName":"Write Business Logic for Adding Login",
+"TaskDesciption":"This task is created to take data from action and save it to database",
+"TaskOwner":"User One",
+"TaskEstimate":"4 days",
+"TimeSpent":"1 Day",
+"TimeRemaining":"3 Day"
+}

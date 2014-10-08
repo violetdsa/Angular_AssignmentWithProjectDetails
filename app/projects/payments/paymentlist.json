@@ -1,0 +1,25 @@
+{
+"prjId":"payments",
+"Name":"Global Payments System",
+"Description":"Is a provider of electronic transaction processing services for merchants, Independent Sales Organizations (ISOs), financial institutions, government agencies and multi-national corporations.",
+"UserStoryId":"paymentlist",
+"UserStoryName":"Create Payment List Page Functionality",
+"Owner":"Test Six",
+"PlanEstimate":"0.55",
+"Tasks":[{
+	  	"TaskId":"createhtml",
+	  	"TaskName":"Create Payment List Html/jsp"	  	
+	  },
+	  {
+	  	"TaskId":"createaction",
+	  	"TaskName":"Create Payment List Action Class"	  	
+	  },
+	  {
+	  	"TaskId":"createdata",
+	  	"TaskName":"Generate Data Models (hbm/Pojo) For Payment List"	  	
+	  },
+	  {
+	  	"TaskId":"writelogic",
+	  	"TaskName":"Write Business Logic for Payment List"	  	
+	  }]
+}

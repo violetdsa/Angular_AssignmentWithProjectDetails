@@ -1,0 +1,25 @@
+{
+"prjId":"bmc",
+"Name":"BMC Bladelogic Automation",
+"Description":"Creating Automated testing framework for the bladelogic server.",
+"UserStoryId":"paymenttype",
+"UserStoryName":"Create Payment Type Page Functionality",
+"Owner":"Test Ten",
+"PlanEstimate":"0.6",
+"Tasks":[{
+	  	"TaskId":"createhtml",
+	  	"TaskName":"Create Payment Type Html/jsp"	  	
+	  },
+	  {
+	  	"TaskId":"createaction",
+	  	"TaskName":"Create Payment Type Action Class"	  	
+	  },
+	  {
+	  	"TaskId":"createdata",
+	  	"TaskName":"Generate Data Models (hbm/Pojo) For Payment Type"	  	
+	  },
+	  {
+	  	"TaskId":"writelogic",
+	  	"TaskName":"Write Business Logic for Payment Type"	  	
+	  }]
+}

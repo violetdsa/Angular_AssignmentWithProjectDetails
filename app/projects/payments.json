@@ -1,0 +1,18 @@
+{
+"prjId":"payments",
+"Name":"Global Payments System",
+"Description":"Is a provider of electronic transaction processing services for merchants, Independent Sales Organizations (ISOs), financial institutions, government agencies and multi-national corporations.",
+"UserStories":[{
+		"UserStoryId":"login",
+		"UserStoryName":"Create Login Page Functionality"
+		},
+		{
+		"UserStoryId":"paymenttype",
+		"UserStoryName":"Create Payment Type Functionality"
+		},
+		{
+		"UserStoryId":"paymentlist",
+		"UserStoryName":"Create Payment List Functionality"
+		}
+	]
+}

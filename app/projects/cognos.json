@@ -1,0 +1,18 @@
+{
+"prjId":"cognos",
+"Name":"Cognos OnDemand/ Cognos Now",
+"Description":"It is an IBM Cognos Now Project.Scope is to re-write the current Cognos Now! server side required changes. ",
+"UserStories":[{
+		"UserStoryId":"login",
+		"UserStoryName":"Create Login Page Functionality"
+		},
+		{
+		"UserStoryId":"paymenttype",
+		"UserStoryName":"Create Payment Type Functionality"
+		},
+		{
+		"UserStoryId":"paymentlist",
+		"UserStoryName":"Create Payment List Functionality"
+		}
+	]
+}

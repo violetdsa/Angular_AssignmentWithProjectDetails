@@ -1,0 +1,25 @@
+{
+"prjId":"vmware",
+"Name":"VMware-CP-Dev",
+"Description":"VMware has CP collector software which is installed on Client site to collect the Inventory and Stats data related to systems, applications, hardware etc in their local network and send to CP dashboard",
+"UserStoryId":"paymenttype",
+"UserStoryName":"Create Payment Type Page Functionality",
+"Owner":"Test Three",
+"PlanEstimate":"0.35",
+"Tasks":[{
+	  	"TaskId":"createhtml",
+	  	"TaskName":"Create Payment Type Html/jsp"	  	
+	  },
+	  {
+	  	"TaskId":"createaction",
+	  	"TaskName":"Create Payment Type Action Class"	  	
+	  },
+	  {
+	  	"TaskId":"createdata",
+	  	"TaskName":"Generate Data Models (hbm/Pojo) For Payment Type"	  	
+	  },
+	  {
+	  	"TaskId":"writelogic",
+	  	"TaskName":"Write Business Logic for Payment Type"	  	
+	  }]
+}

@@ -1,0 +1,18 @@
+{
+"prjId":"vmware",
+"Name":"VMware-CP-Dev",
+"Description":"VMware has CP collector software which is installed on Client site to collect the Inventory and Stats data related to systems, applications, hardware etc in their local network and send to CP dashboard",
+"UserStories":[{
+		"UserStoryId":"login",
+		"UserStoryName":"Create Login Page Functionality"
+		},
+		{
+		"UserStoryId":"paymenttype",
+		"UserStoryName":"Create Payment Type Functionality"
+		},
+		{
+		"UserStoryId":"paymentlist",
+		"UserStoryName":"Create Payment List Functionality"
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+"prjId":"sorriso",
+"Name":"Sorriso Offsore",
+"Description":"Itis project for offsore team of Sorriso",
+"UserStories":[{
+		"UserStoryId":"login",
+		"UserStoryName":"Create Login Page Functionality"
+		},
+		{
+		"UserStoryId":"paymenttype",
+		"UserStoryName":"Create Payment Type Functionality"
+		},
+		{
+		"UserStoryId":"paymentlist",
+		"UserStoryName":"Create Payment List Functionality"
+		}
+	]
+}

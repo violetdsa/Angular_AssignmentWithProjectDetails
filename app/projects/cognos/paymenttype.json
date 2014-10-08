@@ -1,0 +1,25 @@
+{
+"prjId":"cognos",
+"Name":"Cognos OnDemand/ Cognos Now",
+"Description":"It is an IBM Cognos Now Project.Scope is to re-write the current Cognos Now! server side required changes. ",
+"UserStoryId":"paymenttype",
+"UserStoryName":"Create Payment Type Page Functionality",
+"Owner":"Test Eight",
+"PlanEstimate":"0.9",
+"Tasks":[{
+	  	"TaskId":"createhtml",
+	  	"TaskName":"Create Payment Type Html/jsp"	  	
+	  },
+	  {
+	  	"TaskId":"createaction",
+	  	"TaskName":"Create Payment Type Action Class"	  	
+	  },
+	  {
+	  	"TaskId":"createdata",
+	  	"TaskName":"Generate Data Models (hbm/Pojo) For Payment Type"	  	
+	  },
+	  {
+	  	"TaskId":"writelogic",
+	  	"TaskName":"Write Business Logic for Payment Type"	  	
+	  }]
+}

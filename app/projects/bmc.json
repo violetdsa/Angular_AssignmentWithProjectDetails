@@ -1,0 +1,18 @@
+{
+"prjId":"bmc",
+"Name":"BMC Bladelogic Automation",
+"Description":"Creating Automated testing framework for the bladelogic server.",
+"UserStories":[{
+		"UserStoryId":"login",
+		"UserStoryName":"Create Login Page Functionality"
+		},
+		{
+		"UserStoryId":"paymenttype",
+		"UserStoryName":"Create Payment Type Functionality"
+		},
+		{
+		"UserStoryId":"paymentlist",
+		"UserStoryName":"Create Payment List Functionality"
+		}
+	]
+}

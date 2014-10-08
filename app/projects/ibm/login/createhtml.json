@@ -1,0 +1,13 @@
+{
+"prjId":"ibm",
+"Name":"IBM TAM (IBM Tivoli Access Manager)",
+"UserStoryId":"login",
+"UserStoryName":"Create Login Page Functionality",
+"TaskId":"createhtml",
+"TaskName":"Create Login Html/jsp",
+"TaskDesciption":"This task is created to create view. This view will accept data from user and forward it to controller.",
+"TaskOwner":"User One",
+"TaskEstimate":"4 days",
+"TimeSpent":"1 Day",
+"TimeRemaining":"3 Day"
+}

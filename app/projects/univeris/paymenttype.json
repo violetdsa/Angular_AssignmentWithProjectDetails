@@ -1,0 +1,25 @@
+{
+"prjId":"univeris",
+"Name":"Univeris",
+"Description":"Provider of Enterprise Wealth Management Systems, modular front office, distribution and manufacturing platform, to the Canadian market.",
+"UserStoryId":"paymenttype",
+"UserStoryName":"Create Payment Type Page Functionality",
+"Owner":"Test Four",
+"PlanEstimate":"0.4",
+"Tasks":[{
+	  	"TaskId":"createhtml",
+	  	"TaskName":"Create Payment Type Html/jsp"	  	
+	  },
+	  {
+	  	"TaskId":"createaction",
+	  	"TaskName":"Create Payment Type Action Class"	  	
+	  },
+	  {
+	  	"TaskId":"createdata",
+	  	"TaskName":"Generate Data Models (hbm/Pojo) For Payment Type"	  	
+	  },
+	  {
+	  	"TaskId":"writelogic",
+	  	"TaskName":"Write Business Logic for Payment Type"	  	
+	  }]
+}

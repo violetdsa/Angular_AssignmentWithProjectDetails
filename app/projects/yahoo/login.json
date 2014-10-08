@@ -1,0 +1,25 @@
+{
+"prjId":"yahoo",
+"Name":"YAhoo Amoeba",
+"Description":"Surpassing the usual paradigm of surfacing only the trending entities, Amoeba enables the users to explore why a particular entity is trending. It is a new application to discover trends in online conversations",
+"UserStoryId":"login",
+"UserStoryName":"Create Login Page Functionality",
+"Owner":"Test One",
+"PlanEstimate":"0.8",
+"Tasks":[{
+	  	"TaskId":"createhtml",
+	  	"TaskName":"Create Login Html/jsp"	  	
+	  },
+	  {
+	  	"TaskId":"createaction",
+	  	"TaskName":"Create Login Class"	  	
+	  },
+	  {
+	  	"TaskId":"createdata",
+	  	"TaskName":"Generate Data Models (hbm/Pojo) For Login "	  	
+	  },
+	  {
+	  	"TaskId":"writelogic",
+	  	"TaskName":"Write Business Logic for Adding Login"	  	
+	  }]
+}

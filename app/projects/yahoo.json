@@ -1,0 +1,18 @@
+{
+"prjId":"yahoo",
+"Name":"YAhoo Amoeba",
+"Description":"Surpassing the usual paradigm of surfacing only the trending entities, Amoeba enables the users to explore why a particular entity is trending. It is a new application to discover trends in online conversations",
+"UserStories":[{
+		"UserStoryId":"login",
+		"UserStoryName":"Create Login Page Functionality"
+		},
+		{
+		"UserStoryId":"paymenttype",
+		"UserStoryName":"Create Payment Type Functionality"
+		},
+		{
+		"UserStoryId":"paymentlist",
+		"UserStoryName":"Create Payment List Functionality"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+"prjId":"vmware",
+"Name":"VMware-CP-Dev",
+"Description":"VMware has CP collector software which is installed on Client site to collect the Inventory and Stats data related to systems, applications, hardware etc in their local network and send to CP dashboard",
+"UserStoryId":"login",
+"UserStoryName":"Create Login Page Functionality",
+"Owner":"Test One",
+"PlanEstimate":"0.8",
+"Tasks":[{
+	  	"TaskId":"createhtml",
+	  	"TaskName":"Create Login Html/jsp"	  	
+	  },
+	  {
+	  	"TaskId":"createaction",
+	  	"TaskName":"Create Login Class"	  	
+	  },
+	  {
+	  	"TaskId":"createdata",
+	  	"TaskName":"Generate Data Models (hbm/Pojo) For Login "	  	
+	  },
+	  {
+	  	"TaskId":"writelogic",
+	  	"TaskName":"Write Business Logic for Adding Login"	  	
+	  }]
+}

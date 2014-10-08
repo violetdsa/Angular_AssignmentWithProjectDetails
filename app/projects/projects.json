@@ -1,0 +1,52 @@
+[{
+		"prjId":"heartbeats",
+		"Name":"Heartbeats Profiler",
+		"Description":"Scope Heartbeat Profiler is content management System. Heartbeat Profiler’s central database provides enterprises with an intelligible, logically structured view of all company KOLs segmented by brand, therapeutic area, region, role, and level of influence."
+	},
+	{
+		"prjId":"cognos",
+		"Name":"Cognos OnDemand/ Cognos Now",
+		"Description":"It is an IBM Cognos Now Project.Scope is to re-write the current Cognos Now! server side required changes. "
+	},
+	{
+		"prjId":"intuit",
+		"Name":"Intuit IPP Java SDK",
+		"Description":"Intuit payment network is a new and affordable way to send and receive payments over the Internet. It is designed for individuals and small businesses."
+	},
+	{
+		"prjId":"vmware",
+		"Name":"VMware-CP-Dev",
+		"Description":"VMware has CP collector software which is installed on Client site to collect the Inventory and Stats data related to systems, applications, hardware etc in their local network and send to CP dashboard"
+	},
+	{
+		"prjId":"bmc",
+		"Name":"BMC Bladelogic Automation",
+		"Description":"Creating Automated testing framework for the bladelogic server."
+	},
+	{
+		"prjId":"payments",
+		"Name":"Global Payments System",
+		"Description":"Is a provider of electronic transaction processing services for merchants, Independent Sales Organizations (ISOs), financial institutions, government agencies and multi-national corporations."
+	},
+	{
+		"prjId":"sorriso",
+		"Name":"Sorriso Offsore",
+		"Description":"Itis project for offsore team of Sorriso"
+	},
+	{
+		"prjId":"ibm",
+		"Name":"IBM TAM (IBM Tivoli Access Manager)",
+		"Description":"Is an authentication and authorization solution for corporate web services, operating systems, and existing applications.[1] Tivoli Access Manager runs on various operating system platforms such as Unix (AIX, Solaris, HP-UX), Linux, and Microsoft Windows"
+	},
+	{
+		"prjId":"yahoo",
+		"Name":"YAhoo Amoeba",
+		"Description":"Surpassing the usual paradigm of surfacing only the trending entities, Amoeba enables the users to explore why a particular entity is trending. It is a new application to discover trends in online conversations"
+	},
+	{
+		"prjId":"univeris",
+		"Name":"Univeris",
+		"Description":"Provider of Enterprise Wealth Management Systems, modular front office, distribution and manufacturing platform, to the Canadian market."
+	}
+	
+]

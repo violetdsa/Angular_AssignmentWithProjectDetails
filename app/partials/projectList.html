@@ -1,0 +1,7 @@
+<h1> List Of Projects </h1>
+Search By Project Name : 
+	<input type="text"  ng-model="query"/>
+<ul ng-repeat= "prj in projects | filter:{Name:query}">
+	<li>Project Name : <a href="#/projects/{{prj.prjId}}">{{prj.Name}}</a></li>
+	<li>Project Description : {{prj.Description}}</li>
+</ul>

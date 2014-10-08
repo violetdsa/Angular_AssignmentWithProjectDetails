@@ -1,0 +1,18 @@
+{
+"prjId":"univeris",
+"Name":"Univeris",
+"Description":"Provider of Enterprise Wealth Management Systems, modular front office, distribution and manufacturing platform, to the Canadian market.",
+"UserStories":[{
+		"UserStoryId":"login",
+		"UserStoryName":"Create Login Page Functionality"
+		},
+		{
+		"UserStoryId":"paymenttype",
+		"UserStoryName":"Create Payment Type Functionality"
+		},
+		{
+		"UserStoryId":"paymentlist",
+		"UserStoryName":"Create Payment List Functionality"
+		}
+	]
+}

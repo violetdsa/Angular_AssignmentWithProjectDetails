@@ -1,0 +1,13 @@
+{
+"prjId":"intuit",
+"Name":"Intuit IPP Java SDK",
+"UserStoryId":"paymenttype",
+"UserStoryName":"Create Payment Type Page Functionality",
+"TaskId":"createhtml",
+"TaskName":"Write Business Logic for Adding Payment Type",
+"TaskDesciption":"This task is created to create action class. This action will take the data from view and send it to DAOs.",
+"TaskOwner":"User One",
+"TaskEstimate":"3 Days",
+"TimeSpent":"0 Day",
+"TimeRemaining":"3 Days"
+}

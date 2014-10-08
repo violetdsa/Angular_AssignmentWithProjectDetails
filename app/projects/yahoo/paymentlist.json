@@ -1,0 +1,25 @@
+{
+"prjId":"yahoo",
+"Name":"YAhoo Amoeba",
+"Description":"Surpassing the usual paradigm of surfacing only the trending entities, Amoeba enables the users to explore why a particular entity is trending. It is a new application to discover trends in online conversations",
+"UserStoryId":"paymentlist",
+"UserStoryName":"Create Payment List Page Functionality",
+"Owner":"Test Two",
+"PlanEstimate":"0.2",
+"Tasks":[{
+	  	"TaskId":"createhtml",
+	  	"TaskName":"Create Payment List Html/jsp"	  	
+	  },
+	  {
+	  	"TaskId":"createaction",
+	  	"TaskName":"Create Payment List Action Class"	  	
+	  },
+	  {
+	  	"TaskId":"createdata",
+	  	"TaskName":"Generate Data Models (hbm/Pojo) For Payment List"	  	
+	  },
+	  {
+	  	"TaskId":"writelogic",
+	  	"TaskName":"Write Business Logic for Payment List"	  	
+	  }]
+}
